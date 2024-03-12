@@ -1,0 +1,26 @@
+#me atrasei para a primeira aula e não consegui acompanhar a explicação desse exercício, então fiz do jeito que eu achei melhor
+ 
+ #Python
+ #Comando de saida de dados: print
+ 
+print('Olá Mundo!')
+
+#javascript
+#Comando para saida de dados: console.log()
+
+console.log('Olá Mundo!');
+
+# C#
+#Comando para saida de dados: Console.WriteLine()
+
+using System;
+
+class Program
+{
+    static void Main.()
+    {
+        Console.WriteLine('Olá Mundo!')
+    }
+}
+
+
