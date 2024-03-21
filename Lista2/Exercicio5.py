@@ -3,5 +3,4 @@ valor =  float(input('Digite o valor disponivel para abastecer: '))
 
 litros = valor / gasolina
 
-print('Com ',valor,'você consegue abastecer',litros,'!!!')
-               
+print('Com ',valor,'você consegue abastecer',litros,'litros.')
