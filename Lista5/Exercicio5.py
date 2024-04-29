@@ -18,11 +18,12 @@ def multiplicar(num1,num2):
     return result
 
 def dividir(num1,num2):
-    while num1 != 0 and num2 != 0:
+    while True:
         num1 = int(input('Digite o divisor:'))
         num2 = int(input('Digite o dividendo:'))
         if num1 != 0 and num2 != 0:
             result = num1 / num2
+            False
             return result
         else:
             print("Zero não pode ser dividido!")
