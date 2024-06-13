@@ -19,13 +19,13 @@ def prepararPoção():
         opcao = input('Digite a opção correspondente a poção desejada:')
         if opcao == "1":
             pocaoDeCura()
-        elif opcao == 2:
+        elif opcao == "2":
             pocaoForcaDaFloresta
-        elif opcao == 3:
+        elif opcao == "3":
             pocaoSabedoriaDaRiqueza()
-        elif opcao == 4:
+        elif opcao == "4":
             pocaoSorteNoAmor()
-        elif opcao == 5:
+        elif opcao == "5":
             pocaoMalvada
         else:
             print('Opção Inválida!')
